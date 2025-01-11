@@ -1,1 +1,15 @@
+header{
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+div{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+}
+
+
+
 
